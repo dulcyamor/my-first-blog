@@ -1,0 +1,3 @@
+name = 'adsdgdfhgf'
+
+print(name)
